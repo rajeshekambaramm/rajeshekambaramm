@@ -1,87 +1,88 @@
-<!-- ========================= HERO ========================= -->
-
 <div align="center">
 
-# 👋 Hi, I'm Rajesh E.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=RAJESH%20E.&fontAlign=50&fontAlignY=40&desc=Software%20Developer%20%7C%20Full-Stack%20%7C%20Backend%20%7C%20Frontend&descAlign=50&descAlignY=60&animation=fadeIn&fontSize=55&descSize=18&color=0:0F172A,100:2563EB&fontColor=FFFFFF" width="100%" />
 
-### 🚀 Full-Stack Developer
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=650&lines=React.js+%7C+Python+%7C+FastAPI+%7C+MERN;Building+Practical+Web+Applications;REST+APIs+%7C+MongoDB+%7C+MySQL;Computer+Vision+%7C+AI+%7C+Automation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=700&color=3B82F6&center=true&vCenter=true&width=750&lines=Software+Developer;Full-Stack+Developer;Backend+Developer;Frontend+Developer;Python+%7C+React+%7C+JavaScript;FastAPI+%7C+MERN+%7C+REST+APIs;Building+Ideas+Into+Software+%F0%9F%9A%80" />
 
-<p>
-  <a href="https://github.com/rajeshekambaramm">
-    <img src="https://img.shields.io/github/followers/rajeshekambaramm?label=Followers&style=flat-square&logo=github" />
-  </a>
-  <a href="https://github.com/rajeshekambaramm?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=flat-square&logo=github" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=rajeshekambaramm&label=Profile%20Views&color=2F81F7&style=flat-square" />
-</p>
+<br>
 
 <p>
-  <a href="#-about-me">About</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-featured-projects">Projects</a> •
-  <a href="#-achievements">Achievements</a> •
-  <a href="#-github-activity">GitHub Activity</a> •
-  <a href="#-connect-with-me">Connect</a>
+<a href="#-about-me">
+<img src="https://img.shields.io/badge/ABOUT-0F172A?style=for-the-badge" />
+</a>
+<a href="#-technology-stack">
+<img src="https://img.shields.io/badge/TECH_STACK-1D4ED8?style=for-the-badge" />
+</a>
+<a href="#-featured-projects">
+<img src="https://img.shields.io/badge/PROJECTS-2563EB?style=for-the-badge" />
+</a>
+<a href="#-github-activity">
+<img src="https://img.shields.io/badge/ACTIVITY-3B82F6?style=for-the-badge" />
+</a>
+<a href="#-connect">
+<img src="https://img.shields.io/badge/CONNECT-60A5FA?style=for-the-badge" />
+</a>
 </p>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=rajeshekambaramm&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+# 👨‍💻 About Me
 
 <table>
 <tr>
-<td width="55%">
+<td width="60%">
 
-I'm a **Full-Stack Developer** passionate about turning ideas into practical, user-focused software.
+I'm a **Software Developer** who enjoys building reliable, practical and user-focused applications.
 
-I enjoy working across the complete development lifecycle — from designing responsive interfaces and developing REST APIs to working with databases, authentication, analytics and computer vision.
+My interests span across the complete software development lifecycle — from designing interfaces and developing APIs to database engineering, application logic, automation and computer vision.
 
-### 🎯 What I focus on
+### 💡 My Development Areas
 
-* ⚛️ Modern frontend development
-* 🐍 Python backend development
-* 🔌 REST API architecture
-* 🗄️ Database-driven applications
-* 🤖 Computer Vision & AI
-* 📊 Data visualization
-* 🚀 Production-ready software
+```text
+Frontend Development
+        │
+        ├── React.js
+        ├── JavaScript
+        └── Responsive UI
+                 │
+                 ▼
+Backend Development
+        │
+        ├── Python
+        ├── FastAPI
+        ├── Node.js
+        └── REST APIs
+                 │
+                 ▼
+Database Engineering
+        │
+        ├── MongoDB
+        ├── MySQL
+        └── SQLite
+                 │
+                 ▼
+Intelligent Applications
+        │
+        ├── OpenCV
+        ├── YOLOv8
+        └── Computer Vision
+```
 
 </td>
 
-<td width="45%">
+<td width="40%" align="center">
 
-### ⚡ Quick Profile
+### ⚡ Developer Profile
 
-```text
-Role
-└── Full-Stack Developer
-
-Frontend
-└── React.js
-
-Backend
-├── Python
-├── FastAPI
-└── Node.js / Express
-
-Database
-├── MongoDB
-├── MySQL
-└── SQLite
-
-AI / CV
-├── OpenCV
-└── YOLOv8
-
-Design
-├── Canva
-└── Photoshop
-```
+<img src="https://github-readme-stats.vercel.app/api?username=rajeshekambaramm&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" width="100%" />
 
 </td>
 </tr>
@@ -89,27 +90,89 @@ Design
 
 ---
 
-## 🛠️ Tech Stack
+# 🎯 What I'm Looking For
 
 <div align="center">
 
-### 💻 Languages
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 💻
+
+**Software Developer**
+
+Building robust software solutions
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+
+**Full-Stack Developer**
+
+Frontend + Backend
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+
+**Backend Developer**
+
+APIs + Databases
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎨
+
+**Frontend Developer**
+
+Modern Web Interfaces
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🧰 Technology Stack
+
+<div align="center">
+
+## 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=python,js,html,css,php" />
 
-### ⚛️ Frontend
+<br><br>
+
+## ⚛️ Frontend
 
 <img src="https://skillicons.dev/icons?i=react,vite,bootstrap" />
 
-### ⚙️ Backend & APIs
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express" />
+## ⚙️ Backend
 
-### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
+
+<br><br>
+
+## 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
 
-### 🤖 AI & Computer Vision
+<br><br>
+
+## 🤖 AI / Computer Vision
 
 <img src="https://skillicons.dev/icons?i=opencv,tensorflow" />
 
@@ -119,61 +182,71 @@ Design
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 
-### 🔧 Tools
+<br><br>
+
+## 🛠️ Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
+# 🚀 Featured Projects
 
 <div align="center">
 
 ### 📊 Survey Management Platform
 
-**React.js • FastAPI • MongoDB • REST API**
+**React.js + FastAPI + MongoDB**
 
-A full-stack survey platform designed for creating, managing, publishing and collecting survey responses.
+<img src="https://img.shields.io/badge/FRONTEND-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/BACKEND-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/DATABASE-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+
+<br><br>
+
+A full-stack survey platform for creating, managing, publishing and collecting survey responses.
 
 </div>
 
 <details>
-<summary><b>🔍 Explore Project</b></summary>
+<summary>✨ <b>Explore Features</b></summary>
 
 <br>
 
-**Core Features**
+|    | Feature                            |
+| -- | ---------------------------------- |
+| 🔐 | Authentication                     |
+| 📝 | Create / Update / Delete Questions |
+| 🔘 | Text & Multiple Choice Questions   |
+| 👀 | Survey Preview                     |
+| 📢 | Publish / Close Surveys            |
+| 📊 | Response Management                |
+| 🔌 | REST API Architecture              |
 
-| Feature                | Description                         |
-| ---------------------- | ----------------------------------- |
-| 🔐 Authentication      | User registration and login         |
-| 📝 Question Management | Create, update and delete questions |
-| 🔘 Question Types      | Text and multiple-choice questions  |
-| 👀 Preview             | Preview surveys before publishing   |
-| 📢 Publishing          | Publish and close surveys           |
-| 📊 Responses           | Manage collected responses          |
-| 🔌 REST API            | FastAPI-based backend               |
-
-**Architecture**
+### Architecture
 
 ```text
-React Frontend
-      │
-      ▼
-REST API
-      │
-      ▼
-FastAPI Backend
-      │
-      ▼
-MongoDB
+┌──────────────────┐
+│   React Client   │
+└────────┬─────────┘
+         │
+         │ REST API
+         ▼
+┌──────────────────┐
+│ FastAPI Backend  │
+└────────┬─────────┘
+         │
+         ▼
+┌──────────────────┐
+│     MongoDB      │
+└──────────────────┘
 ```
 
 </details>
@@ -184,45 +257,47 @@ MongoDB
 
 ### 📈 Excel Analytics Platform
 
-**MERN Stack • React • Node.js • Express • MongoDB**
+**MERN Stack**
 
-A data analytics platform that transforms Excel files into interactive visualizations.
+<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+
+<br><br>
+
+Transform Excel files into interactive analytics and visualizations.
 
 </div>
 
 <details>
-<summary><b>🔍 Explore Project</b></summary>
+<summary>✨ <b>Explore Features</b></summary>
 
 <br>
 
-**Workflow**
-
 ```text
-Excel File
-    │
-    ▼
+Excel
+  │
+  ▼
 Upload
-    │
-    ▼
-Excel Parser
-    │
-    ▼
-JSON Data
-    │
-    ▼
-Analytics Engine
-    │
-    ▼
+  │
+  ▼
+Parser
+  │
+  ▼
+JSON
+  │
+  ▼
+Analytics
+  │
+  ▼
 Interactive Charts
 ```
 
-**Highlights**
-
-* 📁 Excel file upload
+* 📁 Excel upload
 * 🔄 Excel → JSON conversion
-* 📊 Interactive charts
-* 📈 Data visualization
-* 🗄️ MongoDB integration
+* 📊 Interactive visualizations
+* 📈 Analytics
+* 🗄️ MongoDB
 * ⚡ MERN architecture
 
 </details>
@@ -233,14 +308,16 @@ Interactive Charts
 
 ### 🤖 Smart Surveillance System
 
-**Python • OpenCV • YOLOv8**
+**Python + OpenCV + YOLOv8**
 
-A computer-vision-based surveillance prototype focused on detecting suspicious or potentially unsafe activities.
+<br>
+
+Computer-vision-based surveillance prototype for detecting suspicious or potentially unsafe activities.
 
 </div>
 
 <details>
-<summary><b>🔍 Explore Project</b></summary>
+<summary>✨ <b>Explore Technology</b></summary>
 
 <br>
 
@@ -248,26 +325,20 @@ A computer-vision-based surveillance prototype focused on detecting suspicious o
 Camera / Video
       │
       ▼
-OpenCV Processing
+OpenCV
       │
       ▼
-YOLOv8 Detection
+YOLOv8
+      │
+      ▼
+Detection
       │
       ▼
 Activity Analysis
       │
       ▼
-Alert System
+Alert
 ```
-
-**Technology**
-
-* Python
-* OpenCV
-* YOLOv8
-* NumPy
-* Real-time detection
-* Automated alerts
 
 </details>
 
@@ -277,152 +348,133 @@ Alert System
 
 ### 🚢 Shipyard Web Application
 
-**PHP • MySQL • HTML • CSS • JavaScript**
-
-A web application developed as part of **HACKSPRINT'25**.
+**PHP + MySQL + HTML + CSS + JavaScript**
 
 <br>
 
-🏆 **1st Place — 24-Hour National Level Hackathon**
+🏆 **1st Place — HACKSPRINT'25**
 
 </div>
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/%F0%9F%A5%87_1st_Place-HACKSPRINT'25-F59E0B?style=for-the-badge" />
+
+<br><br>
+
+**24-Hour National Level Hackathon**
+
+<br>
+
+Built a practical software solution under a **24-hour development challenge**.
+
+</div>
+
+---
+
+# 💼 Experience
+
 <table>
 <tr>
-<td align="center" width="25%">
+<td width="50%">
 
-### 🥇
+### 🧑‍💻 SIVASETHU INFOTECH
 
-**Hackathon Winner**
+**Web Developer Intern**
 
-HACKSPRINT'25
+`May 2024 → June 2024`
 
-</td>
-
-<td align="center" width="25%">
-
-### ⚛️
-
-**Full-Stack**
-
-React + Python + MERN
+PHP • MySQL • Web Development
 
 </td>
 
-<td align="center" width="25%">
+<td width="50%">
 
-### 🤖
+### 🧑‍💻 Zidio Development
 
-**Computer Vision**
+**Web Developer**
 
-OpenCV + YOLOv8
+`May 2025 → June 2025`
 
-</td>
-
-<td align="center" width="25%">
-
-### 📊
-
-**Analytics**
-
-Data Visualization
+Web Development • Application Development
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-## 💼 Experience
-
-### 🧑‍💻 Web Developer Intern
-
-**SIVASETHU INFOTECH PVT LTD**
-
-`May 2024 – June 2024`
-
-Worked on web development using **PHP and MySQL**, gaining practical experience in database-driven web applications.
-
----
-
-### 🧑‍💻 Web Developer
-
-**Zidio Development**
-
-`May 2025 – June 2025`
-
-Worked on web development tasks and strengthened practical experience in building and maintaining web applications.
-
----
-
-## 🧠 Development Philosophy
+# 🧠 How I Build Software
 
 <div align="center">
 
 ```text
-        💡 IDEA
-          │
-          ▼
-     🧩 DESIGN
-          │
-          ▼
-      💻 BUILD
-          │
-          ▼
-       🧪 TEST
-          │
-          ▼
-      🚀 DEPLOY
-          │
-          ▼
-      📈 IMPROVE
-          │
-          └──────────► 🔁
+                    💡 IDEA
+                      │
+                      ▼
+                🔍 UNDERSTAND
+                      │
+                      ▼
+                 🧩 DESIGN
+                      │
+                      ▼
+                  💻 BUILD
+                      │
+                      ▼
+                  🧪 TEST
+                      │
+                      ▼
+                 🚀 DEPLOY
+                      │
+                      ▼
+                📈 IMPROVE
+                      │
+                      └───────────┐
+                                  │
+                                  ▼
+                              🔁 REPEAT
 ```
-
-### Build → Learn → Improve → Repeat
 
 </div>
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
-<details open>
-<summary><b>🚀 Full-Stack Development</b></summary>
+<div align="center">
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=64748B&center=true&vCenter=true&width=650&lines=Advanced+React.js;REST+API+Architecture;FastAPI+Backend+Development;Database+Design;Authentication+%26+Authorization;Testing+%26+Code+Quality;Deployment+%26+Production+Practices" />
 
-* ⚛️ Advanced React.js
-* 🔌 REST API architecture
-* 🐍 FastAPI
-* 🟢 Node.js / Express
-* 🗄️ Database design
-* 🔐 Authentication & authorization
-* 🧪 Testing
-* 🚀 Deployment
-* 🏗️ Scalable application architecture
-
-</details>
+</div>
 
 <details>
-<summary><b>🤖 AI & Computer Vision</b></summary>
+<summary>📖 <b>Learning Roadmap</b></summary>
 
 <br>
 
-* OpenCV
-* YOLO
-* Real-time object detection
-* Computer vision pipelines
-* AI-powered application development
+```text
+                    SOFTWARE DEVELOPMENT
+                            │
+          ┌─────────────────┼─────────────────┐
+          │                 │                 │
+          ▼                 ▼                 ▼
+      FRONTEND           BACKEND          DATABASE
+          │                 │                 │
+       React.js          FastAPI          MongoDB
+       JavaScript        Node.js          MySQL
+       Vite              REST API         SQLite
+          │                 │                 │
+          └─────────────────┼─────────────────┘
+                            │
+                            ▼
+                       AI / AUTOMATION
+                            │
+                       OpenCV / YOLO
+```
 
 </details>
 
@@ -432,33 +484,21 @@ Worked on web development tasks and strengthened practical experience in buildin
 
 <div align="center">
 
-### 📈 Contribution Graph
+## 🟦 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeshekambaramm&bg_color=00000000&color=2F81F7&line=2F81F7&point=1F6FEB&area=true&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeshekambaramm&bg_color=00000000&color=2563EB&line=3B82F6&point=60A5FA&area=true&hide_border=true" width="96%" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 GitHub Statistics
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rajeshekambaramm/rajeshekambaramm/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://github-readme-stats.vercel.app/api?username=rajeshekambaramm&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=transparent" width="48%" />
 
-</div>
-
-> ⚠️ The snake animation requires a GitHub Actions workflow in this profile repository. We can set that up in the next step.
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rajeshekambaramm&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshekambaramm&layout=compact&hide_border=true&langs_count=8&theme=transparent" width="41%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshekambaramm&layout=compact&langs_count=8&hide_border=true&theme=transparent" width="40%" />
 
 </div>
 
@@ -474,23 +514,60 @@ Worked on web development tasks and strengthened practical experience in buildin
 
 ---
 
-## 📌 What I'm Working Towards
+# 🐍 Contribution Snake
 
 <div align="center">
 
-| 🎯 Goal                | 🚀 Focus                                  |
-| ---------------------- | ----------------------------------------- |
-| Full-Stack Development | Build production-ready applications       |
-| Backend Engineering    | Design scalable REST APIs                 |
-| AI Integration         | Build practical AI-powered applications   |
-| Open Source            | Contribute to useful projects             |
-| Career                 | Grow as a Software / Full-Stack Developer |
+<img src="https://raw.githubusercontent.com/rajeshekambaramm/rajeshekambaramm/output/github-contribution-grid-snake.svg" width="90%" />
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+# 📌 Developer Dashboard
+
+<div align="center">
+
+| 🧩 Area                 | 🎯 Focus                     |
+| ----------------------- | ---------------------------- |
+| 💻 Software Development | Application architecture     |
+| 🎨 Frontend             | React.js / JavaScript        |
+| ⚙️ Backend              | Python / FastAPI / Node.js   |
+| 🔌 APIs                 | REST API development         |
+| 🗄️ Database            | MongoDB / MySQL              |
+| 🤖 AI                   | OpenCV / YOLOv8              |
+| 📊 Analytics            | Data visualization           |
+| 🚀 Growth               | Production-ready development |
+
+</div>
+
+---
+
+# 🌱 Beyond Code
+
+<div align="center">
+
+```text
+BUILD
+  ↓
+LEARN
+  ↓
+EXPERIMENT
+  ↓
+FAIL
+  ↓
+IMPROVE
+  ↓
+BUILD BETTER
+```
+
+### Every project is an opportunity to learn something new.
+
+</div>
+
+---
+
+# 🤝 Connect
 
 <div align="center">
 
@@ -502,16 +579,18 @@ Worked on web development tasks and strengthened practical experience in buildin
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-</div>
+<br><br>
+
+### 💬 Open to Software Development Opportunities
+
+**Software Developer • Full-Stack Developer • Backend Developer • Frontend Developer**
 
 <br>
 
-<div align="center">
-
-### 💬 Open to interesting projects, collaborations and opportunities.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=64748B&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Let's+build+something+great+%F0%9F%9A%80" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=fadeIn&color=0:2563EB,100:0F172A" width="100%" />
 
 </div>
