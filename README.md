@@ -77,14 +77,6 @@ Intelligent Applications
 ```
 
 </td>
-
-<td width="40%" align="center">
-
-### ⚡ Developer Profile
-
-<img src="https://github-readme-stats.vercel.app/api?username=rajeshekambaramm&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" width="100%" />
-
-</td>
 </tr>
 </table>
 
