@@ -293,10 +293,6 @@ Modern Web Interfaces
 
 <img src="https://skillicons.dev/icons?i=python,js,html,css,php" />
 
-<br><br>
-
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-
 ---
 
 ## ⚛️ Frontend Development
@@ -360,6 +356,9 @@ Modern Web Interfaces
 
 <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Version%20Control-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-Development-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<br><br>
+
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
 
 ---
 
@@ -367,6 +366,8 @@ Modern Web Interfaces
 
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+
+
 
 ---
 
@@ -414,158 +415,365 @@ Modern Web Interfaces
 
 <div align="center">
 
-### 📊 Survey Management Platform
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=800&color=2563EB&center=true&vCenter=true&width=700&lines=Things+I've+Designed+%26+Built+%F0%9F%9A%80;From+Web+Applications+to+Intelligent+Systems;Real+Projects+%E2%80%A2+Real+Problems+%E2%80%A2+Practical+Solutions" />
 
-**React.js + FastAPI + MongoDB**
+</div>
 
-<img src="https://img.shields.io/badge/FRONTEND-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/BACKEND-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/DATABASE-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+---
+
+## 📊 Survey Management Platform
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/REACT.JS-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/FASTAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/MONGODB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 <br><br>
 
-A full-stack survey platform for creating, managing, publishing and collecting survey responses.
+**Full-Stack Survey Creation & Response Management Platform**
 
 </div>
 
-<details>
-<summary>✨ <b>Explore Features</b></summary>
+### 🎯 Overview
 
-<br>
+A full-stack web application designed to simplify the process of **creating, managing, publishing and collecting responses from online surveys**.
 
-|    | Feature                            |
-| -- | ---------------------------------- |
-| 🔐 | Authentication                     |
-| 📝 | Create / Update / Delete Questions |
-| 🔘 | Text & Multiple Choice Questions   |
-| 👀 | Survey Preview                     |
-| 📢 | Publish / Close Surveys            |
-| 📊 | Response Management                |
-| 🔌 | REST API Architecture              |
+The platform separates the frontend, API layer and database into a clean application architecture.
 
-### Architecture
+### ✨ Key Capabilities
+
+<table>
+<tr>
+<td width="50%">
+
+🔐 **Authentication**
+
+User registration and login.
+
+📝 **Question Management**
+
+Create, update and delete survey questions.
+
+🔘 **Multiple Question Types**
+
+Supports text and multiple-choice questions.
+
+</td>
+
+<td width="50%">
+
+👀 **Survey Preview**
+
+Review surveys before publishing.
+
+📢 **Survey Lifecycle**
+
+Publish and close surveys.
+
+📊 **Response Management**
+
+Collect and manage submitted responses.
+
+</td>
+</tr>
+</table>
+
+### 🏗️ Architecture
 
 ```text
-┌──────────────────┐
-│   React Client   │
-└────────┬─────────┘
-         │
-         │ REST API
-         ▼
-┌──────────────────┐
-│ FastAPI Backend  │
-└────────┬─────────┘
-         │
-         ▼
-┌──────────────────┐
-│     MongoDB      │
-└──────────────────┘
+                 ┌─────────────────────┐
+                 │    React Frontend   │
+                 │    Vite + JS        │
+                 └──────────┬──────────┘
+                            │
+                            │ REST API
+                            ▼
+                 ┌─────────────────────┐
+                 │    FastAPI Backend  │
+                 │       Python        │
+                 └──────────┬──────────┘
+                            │
+                            │ Database
+                            ▼
+                 ┌─────────────────────┐
+                 │       MongoDB       │
+                 └─────────────────────┘
 ```
 
-</details>
+### 🧩 Tech Stack
 
----
+`React.js` `Vite` `JavaScript` `Python` `FastAPI` `MongoDB` `REST API`
 
 <div align="center">
 
-### 📈 Excel Analytics Platform
+<a href="https://github.com/rajeshekambaramm">
+<img src="https://img.shields.io/badge/🔗%20View%20Repository-181717?style=for-the-badge&logo=github" />
+</a>
 
-**MERN Stack**
+</div>
 
-<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+---
+
+# 🚢 Shipyard Management Web Application
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PHP-Backend-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MYSQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-Frontend-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-Logic-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 <br><br>
 
-Transform Excel files into interactive analytics and visualizations.
-
-</div>
-
-<details>
-<summary>✨ <b>Explore Features</b></summary>
+**Shipyard Information & Management Platform**
 
 <br>
 
+🏆 <b>HACKSPRINT'25 — 1st Place</b>
+
+</div>
+
+### 🎯 Overview
+
+A PHP and MySQL-based web application developed during **HACKSPRINT'25**, focused on providing a centralized digital platform for shipyard-related information, facilities and management workflows.
+
+The repository contains dedicated modules for shipyard information, dry docks, facilities, technology, storage, rooms, tenders and user authentication.
+
+### ✨ Key Capabilities
+
+<table>
+<tr>
+<td width="50%">
+
+🔐 **User Authentication**
+
+Login, registration and logout functionality.
+
+⚓ **Shipyard Information**
+
+Structured information about shipyard operations.
+
+🏗️ **Facility Management**
+
+Dedicated facility and technology sections.
+
+</td>
+
+<td width="50%">
+
+🛠️ **Dry Dock Information**
+
+Dedicated pages for dry dock details.
+
+📦 **Storage & Rooms**
+
+Management-oriented information modules.
+
+📑 **Tender Management**
+
+Tender listing and submission functionality.
+
+</td>
+</tr>
+</table>
+
+### 🏗️ Application Flow
+
 ```text
-Excel
-  │
-  ▼
-Upload
-  │
-  ▼
-Parser
-  │
-  ▼
-JSON
-  │
-  ▼
-Analytics
-  │
-  ▼
-Interactive Charts
+                    🌐 WEB APPLICATION
+                           │
+             ┌─────────────┴─────────────┐
+             │                           │
+             ▼                           ▼
+       👤 USER MODULE              ⚓ SHIPYARD MODULE
+             │                           │
+      ┌──────┼──────┐          ┌─────────┼─────────┐
+      ▼      ▼      ▼          ▼         ▼         ▼
+    Login  Signup Logout    Facilities  Dry Docks  Storage
+      │
+      ▼
+┌───────────────────────────────────────────────┐
+│              PHP APPLICATION                  │
+└──────────────────────┬────────────────────────┘
+                       │
+                       ▼
+                ┌─────────────┐
+                │    MySQL    │
+                └─────────────┘
 ```
 
-* 📁 Excel upload
-* 🔄 Excel → JSON conversion
-* 📊 Interactive visualizations
-* 📈 Analytics
-* 🗄️ MongoDB
-* ⚡ MERN architecture
+### 🧩 Tech Stack
 
-</details>
+`PHP` `MySQL` `HTML5` `CSS3` `JavaScript`
+
+<div align="center">
+
+<a href="https://github.com/rajeshekambaramm/Shipyard">
+<img src="https://img.shields.io/badge/🔗%20View%20Repository-181717?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+---
+
+# 📰 CS Journal — Journal Publication Platform
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PHP-Web%20Application-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MYSQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-Frontend-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-UI-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-Interactive%20UI-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+<br><br>
+
+### 🎓 Journal Publication & Management Platform
+
+**Developed for the Department of Computer Science — Bishop Heber College**
+
+</div>
+
+### 🎯 Overview
+
+A web-based **journal publication and management platform** developed for the **Department of Computer Science, Bishop Heber College**.
+
+The system is structured around journal content, publication resources, administrative management and supporting publication workflows.
+
+The repository includes separate areas for administration, assets, configuration, database resources, pages, images and publication guideline uploads.
+
+### ✨ Key Capabilities
+
+<table>
+<tr>
+<td width="50%">
+
+📚 **Journal Content**
+
+Organized platform for publishing and presenting journal-related content.
+
+👨‍💼 **Administration**
+
+Dedicated administrative area for managing platform content.
+
+📄 **Publication Resources**
+
+Support for journal guidelines and uploaded publication resources.
+
+</td>
+
+<td width="50%">
+
+🗄️ **Database Layer**
+
+Dedicated database and configuration structure.
+
+🖼️ **Media Management**
+
+Organized assets and image resources.
+
+⚙️ **Modular Structure**
+
+Separate application areas for pages, configuration and reusable components.
+
+</td>
+</tr>
+</table>
+
+### 🏗️ Application Structure
+
+```text
+                    📰 CS JOURNAL
+                         │
+             ┌───────────┴───────────┐
+             │                       │
+             ▼                       ▼
+       🌐 PUBLIC AREA          👨‍💼 ADMIN AREA
+             │                       │
+       ┌─────┼─────┐           ┌─────┴─────┐
+       ▼     ▼     ▼           ▼           ▼
+    Journal  Pages  Media    Content     Management
+             │                       │
+             └───────────┬───────────┘
+                         ▼
+                  ⚙️ Application
+                         │
+                         ▼
+                   🗄️ Database
+```
+
+### 🧩 Tech Stack
+
+`PHP` `MySQL` `HTML5` `CSS3` `JavaScript`
+
+### 🎓 Project Context
+
+This project represents my experience in developing software for a **real institutional use case**, where the application needed to support structured journal publication and content management rather than being only a demonstration project.
+
+<div align="center">
+
+<a href="https://github.com/rajeshekambaramm/CS_Journal">
+<img src="https://img.shields.io/badge/🔗%20View%20Repository-181717?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+---
+
+## 🤖 Smart Surveillance System
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PYTHON-Backend-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/OPENCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLOv8-Object%20Detection-111111?style=for-the-badge" />
+
+<br><br>
+
+**Computer Vision & Intelligent Surveillance Prototype**
+
+</div>
+
+### 🎯 Overview
+
+A Python-based computer vision prototype focused on detecting suspicious or potentially unsafe activities from video input.
+
+### 🧠 Processing Pipeline
+
+```text
+       🎥 VIDEO / CAMERA
+              │
+              ▼
+       🔍 OpenCV Processing
+              │
+              ▼
+        🤖 YOLOv8 Model
+              │
+              ▼
+       🎯 Object Detection
+              │
+              ▼
+      🧠 Activity Analysis
+              │
+              ▼
+          🚨 ALERT
+```
+
+### 🧩 Tech Stack
+
+`Python` `OpenCV` `YOLOv8` `NumPy`
 
 ---
 
 <div align="center">
 
-### 🤖 Smart Surveillance System
-
-**Python + OpenCV + YOLOv8**
+## 💭 Building software that solves problems — not just projects that fill a portfolio.
 
 <br>
 
-Computer-vision-based surveillance prototype for detecting suspicious or potentially unsafe activities.
-
-</div>
-
-<details>
-<summary>✨ <b>Explore Technology</b></summary>
-
-<br>
-
-```text
-Camera / Video
-      │
-      ▼
-OpenCV
-      │
-      ▼
-YOLOv8
-      │
-      ▼
-Detection
-      │
-      ▼
-Activity Analysis
-      │
-      ▼
-Alert
-```
-
-</details>
-
----
-
-<div align="center">
-
-### 🚢 Shipyard Web Application
-
-**PHP + MySQL + HTML + CSS + JavaScript**
-
-<br>
-
-🏆 **1st Place — HACKSPRINT'25**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=900&color=64748B&center=true&vCenter=true&width=650&lines=Design+%E2%86%92+Develop+%E2%86%92+Test+%E2%86%92+Improve;Every+project+is+a+new+engineering+challenge+%F0%9F%9A%80" />
 
 </div>
 
