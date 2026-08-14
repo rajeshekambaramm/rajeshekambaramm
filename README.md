@@ -35,52 +35,197 @@
 ---
 
 # 👨‍💻 About Me
+# 👨‍💻 About Me
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=800&color=2563EB&center=true&vCenter=true&width=720&lines=I+turn+ideas+into+working+software+%F0%9F%92%A1;I+build%2C+test%2C+improve+%26+ship+%F0%9F%9A%80;From+UI+to+API+to+Database+%E2%80%94+I+enjoy+the+whole+journey+%F0%9F%94%A5" alt="Developer introduction" />
+
+<br>
+
+> **Software Developer** passionate about building practical, reliable and user-focused applications.
+
+</div>
+
+---
 
 <table>
 <tr>
-<td width="60%">
 
-I'm a **Software Developer** who enjoys building reliable, practical and user-focused applications.
+<td width="58%" valign="top">
 
-My interests span across the complete software development lifecycle — from designing interfaces and developing APIs to database engineering, application logic, automation and computer vision.
+### 🚀 Who I Am
 
-### 💡 My Development Areas
+I'm a **Computer Science graduate and Software Developer** who enjoys turning ideas and real-world problems into useful software.
 
-```text
-Frontend Development
-        │
-        ├── React.js
-        ├── JavaScript
-        └── Responsive UI
-                 │
-                 ▼
-Backend Development
-        │
-        ├── Python
-        ├── FastAPI
-        ├── Node.js
-        └── REST APIs
-                 │
-                 ▼
-Database Engineering
-        │
-        ├── MongoDB
-        ├── MySQL
-        └── SQLite
-                 │
-                 ▼
-Intelligent Applications
-        │
-        ├── OpenCV
-        ├── YOLOv8
-        └── Computer Vision
+I like working across different layers of development — from crafting responsive interfaces and designing APIs to working with databases, application logic, automation and computer vision.
+
+### 💡 What I Enjoy Building
+
+```text id="2k1h3q"
+🌐 Web Applications
+      │
+      ├── Interactive Interfaces
+      ├── Responsive Design
+      └── User-focused Experiences
+
+⚙️ Backend Systems
+      │
+      ├── REST APIs
+      ├── Business Logic
+      └── Database Integration
+
+📊 Data-driven Applications
+      │
+      ├── Analytics
+      ├── Visualization
+      └── Information Management
+
+🤖 Intelligent Applications
+      │
+      ├── Computer Vision
+      ├── Object Detection
+      └── Automation
 ```
 
 </td>
+
+<td width="42%" valign="top">
+
+### 🖥️ Developer Console
+
+```text id="c3r8q7"
+┌──────────────────────────────┐
+│       RAJESH.DEV             │
+├──────────────────────────────┤
+│                              │
+│  role                        │
+│  > Software Developer        │
+│                              │
+│  focus                       │
+│  > Full-Stack                │
+│  > Backend                   │
+│  > Frontend                  │
+│                              │
+│  currently                  │
+│  > Building                  │
+│  > Learning                  │
+│  > Improving                 │
+│                              │
+│  status                      │
+│  > ● Open to opportunities   │
+│                              │
+└──────────────────────────────┘
+```
+
+</td>
+
 </tr>
 </table>
 
 ---
+
+<div align="center">
+
+## 🧩 How I Approach Development
+
+```text
+        💡 IDEA
+          │
+          ▼
+    🔍 UNDERSTAND
+          │
+          ▼
+       🎨 DESIGN
+          │
+          ▼
+      💻 DEVELOP
+          │
+          ▼
+       🧪 TEST
+          │
+          ▼
+      🚀 DEPLOY
+          │
+          ▼
+      📈 IMPROVE
+          │
+          └───────────────┐
+                          │
+                          ▼
+                       🔁 REPEAT
+```
+
+</div>
+
+---
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🎨
+
+**Frontend**
+
+React.js
+JavaScript
+Responsive UI
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+
+**Backend**
+
+Python
+FastAPI
+Node.js
+REST APIs
+
+</td>
+
+<td align="center" width="25%">
+
+### 🗄️
+
+**Data**
+
+MongoDB
+MySQL
+SQLite
+Analytics
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**Intelligent**
+
+OpenCV
+YOLOv8
+Computer Vision
+Automation
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### ⚡ My Development Mindset
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&color=64748B&center=true&vCenter=true&width=650&lines=Understand+the+problem+%E2%86%92+Design+the+solution;Build+%E2%86%92+Test+%E2%86%92+Improve;Keep+learning+%E2%86%92+Keep+building;Simple+%E2%80%A2+Useful+%E2%80%A2+Reliable" alt="Development mindset" />
+
+</div>
 
 # 🎯 What I'm Looking For
 
