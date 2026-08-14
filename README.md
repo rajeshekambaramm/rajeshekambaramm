@@ -25,11 +25,6 @@
 <img src="https://img.shields.io/badge/CONNECT-60A5FA?style=for-the-badge" />
 </a>
 </p>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=rajeshekambaramm&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" />
-
 </div>
 
 ---
@@ -120,41 +115,6 @@ I like working across different layers of development — from crafting responsi
 
 </tr>
 </table>
-
----
-
-<div align="center">
-
-## 🧩 How I Approach Development
-
-```text
-        💡 IDEA
-          │
-          ▼
-    🔍 UNDERSTAND
-          │
-          ▼
-       🎨 DESIGN
-          │
-          ▼
-      💻 DEVELOP
-          │
-          ▼
-       🧪 TEST
-          │
-          ▼
-      🚀 DEPLOY
-          │
-          ▼
-      📈 IMPROVE
-          │
-          └───────────────┐
-                          │
-                          ▼
-                       🔁 REPEAT
-```
-
-</div>
 
 ---
 
@@ -374,37 +334,40 @@ Modern Web Interfaces
 ## 🧩 My Development Workflow
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                     DEVELOPMENT FLOW                        │
-└─────────────────────────────────────────────────────────────┘
 
-        💡 IDEA
-           │
-           ▼
-      🎨 FRONTEND
-   React • HTML • CSS
-           │
-           ▼
-       ⚙️ BACKEND
-  FastAPI • Node.js
-           │
-           ▼
-      🔌 REST API
-           │
-           ▼
-      🗄️ DATABASE
- MongoDB • MySQL • SQLite
-           │
-           ▼
-       🧪 TESTING
-       Selenium
-           │
-           ▼
-      🤖 INTELLIGENCE
-  OpenCV • YOLOv8
-           │
-           ▼
-       🚀 DEPLOY
+
+            ┌─────────────────────────────────────────────────────────────┐
+            │                     DEVELOPMENT FLOW                        │
+            └─────────────────────────────────────────────────────────────┘
+
+                                       💡 IDEA
+                                            │
+                                            ▼
+                                     🎨 FRONTEND
+                                   React • HTML • CSS
+                                            │
+                                            ▼
+                                      ⚙️ BACKEND
+                                    FastAPI • Node.js
+                                            │
+                                            ▼
+                                      🔌 REST API
+                                            │
+                                            ▼
+                                      🗄️ DATABASE
+                                 MongoDB • MySQL • SQLite
+                                            │
+                                            ▼
+                                      🧪 TESTING
+                                        Selenium
+                                            │
+                                            ▼
+                                    🤖 INTELLIGENCE
+                                     OpenCV • YOLOv8
+                                            │
+                                            ▼
+                                      🚀 DEPLOY
+
 ```
 
 </div>
@@ -426,7 +389,7 @@ Modern Web Interfaces
 <div align="center">
 
 <img src="https://img.shields.io/badge/REACT.JS-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/FASTAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/PYTHON-Backend-009688?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/MONGODB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 <br><br>
@@ -787,7 +750,7 @@ A Python-based computer vision prototype focused on detecting suspicious or pote
 
 <br><br>
 
-**24-Hour National Level Hackathon**
+**24-Hour National Level Hackathon Winner**
 
 <br>
 
@@ -854,10 +817,10 @@ Web Development • Application Development
                       ▼
                 📈 IMPROVE
                       │
-                      └───────────┐
-                                  │
-                                  ▼
-                              🔁 REPEAT
+                                 └───────────┐
+                                             │
+                                             ▼
+                                        🔁 REPEAT
 ```
 
 </div>
@@ -905,41 +868,9 @@ Web Development • Application Development
 
 <div align="center">
 
-## 🟦 Contribution Graph
+## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeshekambaramm&bg_color=00000000&color=2563EB&line=3B82F6&point=60A5FA&area=true&hide_border=true" width="96%" />
-
-</div>
-
----
-
-## 📈 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rajeshekambaramm&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=transparent" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshekambaramm&layout=compact&langs_count=8&hide_border=true&theme=transparent" width="40%" />
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=rajeshekambaramm&hide_border=true&theme=transparent" width="70%" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rajeshekambaramm/rajeshekambaramm/output/github-contribution-grid-snake.svg" width="90%" />
 
 </div>
 
