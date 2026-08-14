@@ -33,8 +33,6 @@
 </div>
 
 ---
-
-# 👨‍💻 About Me
 # 👨‍💻 About Me
 
 <div align="center">
@@ -107,7 +105,7 @@ I like working across different layers of development — from crafting responsi
 │  > Backend                   │
 │  > Frontend                  │
 │                              │
-│  currently                  │
+│  currently                   │
 │  > Building                  │
 │  > Learning                  │
 │  > Improving                 │
@@ -285,50 +283,128 @@ Modern Web Interfaces
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=2563EB&center=true&vCenter=true&width=650&lines=Technologies+I+Build+With+%F0%9F%9B%A0%EF%B8%8F;Frontend+%E2%80%A2+Backend+%E2%80%A2+Database+%E2%80%A2+Testing;Code+%E2%80%A2+Test+%E2%80%A2+Analyze+%E2%80%A2+Improve" alt="Technology stack" />
+
+<br>
+
+---
+
 ## 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=python,js,html,css,php" />
 
 <br><br>
 
-## ⚛️ Frontend
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+
+---
+
+## ⚛️ Frontend Development
 
 <img src="https://skillicons.dev/icons?i=react,vite,bootstrap" />
 
 <br><br>
 
-## ⚙️ Backend
+<img src="https://img.shields.io/badge/Responsive%20UI-Design-2563EB?style=for-the-badge" />
+
+---
+
+## ⚙️ Backend & API Development
 
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
 
 <br><br>
 
-## 🗄️ Databases
+<img src="https://img.shields.io/badge/REST%20APIs-Development-0F766E?style=for-the-badge" />
+
+---
+
+## 🗄️ Databases & Data
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
 
 <br><br>
 
-## 🤖 AI / Computer Vision
-
-<img src="https://skillicons.dev/icons?i=opencv,tensorflow" />
-
-<br>
-
-<img src="https://img.shields.io/badge/YOLOv8-Computer%20Vision-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+---
+
+## 🧪 Testing & Automation
+
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 
 <br><br>
 
-## 🛠️ Tools
+**Web Testing • Browser Automation • Test Automation**
+
+---
+
+## 🤖 AI & Computer Vision
+
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/YOLOv8-Computer%20Vision-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+
+---
+
+## 🔧 Development Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 <br><br>
 
+<img src="https://img.shields.io/badge/Git%20%26%20GitHub-Version%20Control-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-Development-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+---
+
+## 🎨 Design & Creative Tools
+
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+
+---
+
+## 🧩 My Development Workflow
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                     DEVELOPMENT FLOW                        │
+└─────────────────────────────────────────────────────────────┘
+
+        💡 IDEA
+           │
+           ▼
+      🎨 FRONTEND
+   React • HTML • CSS
+           │
+           ▼
+       ⚙️ BACKEND
+  FastAPI • Node.js
+           │
+           ▼
+      🔌 REST API
+           │
+           ▼
+      🗄️ DATABASE
+ MongoDB • MySQL • SQLite
+           │
+           ▼
+       🧪 TESTING
+       Selenium
+           │
+           ▼
+      🤖 INTELLIGENCE
+  OpenCV • YOLOv8
+           │
+           ▼
+       🚀 DEPLOY
+```
 
 </div>
 
